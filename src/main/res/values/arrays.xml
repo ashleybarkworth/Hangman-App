@@ -1,0 +1,38 @@
+<resources>
+    <string-array name="easy">
+    <item>JAZZ</item>
+    <item>JOKE</item>
+    <item>WAXY</item>
+    <item>MAZE</item>
+    <item>FOOD</item>
+    <item>ROAD</item>
+    <item>TAPE</item>
+    <item>CELL</item>
+    <item>WIFI</item>
+    <item>FISH</item>
+</string-array>
+    <string-array name="medium">
+        <item>KNIFE</item>
+        <item>GRASS</item>
+        <item>PHONE</item>
+        <item>FEAST</item>
+        <item>TREES</item>
+        <item>HOUSE</item>
+        <item>GLOBE</item>
+        <item>QUIET</item>
+        <item>SEWER</item>
+        <item>ANTSY</item>
+    </string-array>
+    <string-array name="hard">
+        <item>TABLET</item>
+        <item>MONKEY</item>
+        <item>SCHOOL</item>
+        <item>SYSTEM</item>
+        <item>CANADA</item>
+        <item>PEANUT</item>
+        <item>FLOWER</item>
+        <item>IPHONE</item>
+        <item>ERASER</item>
+        <item>BORING</item>
+    </string-array>
+</resources>
